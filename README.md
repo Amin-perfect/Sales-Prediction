@@ -1,6 +1,6 @@
 # 📊 Sales Prediction using Machine Learning
 
-This project is part of the Data Science Internship by CodeAlpha.
+
 
 ## 📌 Project Overview
 The goal of this project is to predict product sales based on advertising budgets spent on different marketing platforms.
@@ -43,7 +43,7 @@ Achieved strong prediction accuracy using Linear Regression.
 - Real-time sales prediction
 
 ## 📂 Project Structure
-CodeAlpha_SalesPrediction/
+Sales-Prediction/
 │
 ├── dataset/
 ├── notebook/
