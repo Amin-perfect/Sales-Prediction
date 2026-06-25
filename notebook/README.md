@@ -10,12 +10,12 @@ Companies often allocate advertising budgets across multiple channels without cl
 The dataset contains advertising spend (in thousands of dollars) across TV, Radio, and Newspaper channels, along with the resulting product sales figures.
 
 ## Methodology
-1. **Data Cleaning**  checked for missing values and inconsistent entries
+1. **Data Cleaning** — checked for missing values and inconsistent entries
 2. **Exploratory Data Analysis** — visualized the relationship between each advertising channel and sales using scatter plots
-3. **Correlation Analysis**  built a heatmap to rank which channel had the strongest linear relationship with sales
-4. **Train-Test Split**  separated data to evaluate generalization, not just training fit
-5. **Model Training**  trained a Linear Regression model on the three advertising features
-6. **Evaluation**  measured model performance using R² score on the test set
+3. **Correlation Analysis** — built a heatmap to rank which channel had the strongest linear relationship with sales
+4. **Train-Test Split** — separated data to evaluate generalization, not just training fit
+5. **Model Training** — trained a Linear Regression model on the three advertising features
+6. **Evaluation** — measured model performance using R² score on the test set
 
 ## Result
 Achieved an **R² score of 0.7576** on the test set, indicating the model explains roughly 76% of the variance in sales using advertising spend alone.
